@@ -14,5 +14,7 @@ def play_game():
             print("Too Low")
         else:
             print("Too High")
+            
     print("Thank you for playing.")
+
 play_game()
