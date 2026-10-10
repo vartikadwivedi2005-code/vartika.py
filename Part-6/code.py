@@ -30,8 +30,8 @@
 # print(type([3,4,6,6,4,6]))
 
 # Module Functions - related bundle
-# import math 
 
+# import math 
 # print(dir(math))
 
 # from math import sqrt,log2
