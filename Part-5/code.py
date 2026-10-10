@@ -44,7 +44,6 @@
 
 # # index
 # print(marks.index(90))
-
 # print(type(marks))
 
 
