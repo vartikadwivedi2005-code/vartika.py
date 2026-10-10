@@ -7,8 +7,9 @@
 # # # print(5 % 3) # modulo - returns the remainder of the division of 5 by 3, which is 2.
 # # # print(5 ** 3) # exponentiation - returns 5 raised to the power of 3, which is 125.
 
-# # # Assignment operators are used to assign values to variables. The basic assignment operator in Python is the equal sign (=). For example, x = 5 assigns the value 5 to the variable x. There are also compound assignment operators that combine an arithmetic operation with assignment. For example, x += 3 is equivalent to x = x + 3, and it adds 3 to the current value of x and assigns the result back to x.
 
+
+# # # Assignment operators are used to assign values to variables. The basic assignment operator in Python is the equal sign (=). For example, x = 5 assigns the value 5 to the variable x. There are also compound assignment operators that combine an arithmetic operation with assignment. For example, x += 3 is equivalent to x = x + 3, and it adds 3 to the current value of x and assigns the result back to x.
 # # x = 1
 # # x = x + 5 
 # # print(x) # prints 6
