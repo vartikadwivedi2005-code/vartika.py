@@ -58,4 +58,5 @@ for i  in range(1,31):
     if (i % 3 == 0):
         print(i)
 print("out of loop")
+
 #break statement - used to exit the loop prematurely, before the loop condition is false. For example, if i == 2: break will exit the loop when i is equal to 2, and the program will continue executing the code after the loop.
