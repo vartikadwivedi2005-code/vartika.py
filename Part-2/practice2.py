@@ -13,5 +13,4 @@
 
 Superhero = input("Enter your favorite superhero: ")
 print("Your favorite superhero is:", Superhero)
-
 print('S' in Superhero) # returns True if the substring 'Stark' is found in the string name, otherwise returns False.
